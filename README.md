@@ -31,8 +31,7 @@ complaint-registery/
 | Deployment | GitHub / Netlify (Optional) |
 
 
-
-🧪 How to Run the Project Locally
+##🧪 How to Run the Project Locally
 1. Clone the repository
 git clone https://github.com/NikithaThota17/ResolveNow-Your-Platform-for-Online-Complaints.git
 cd complaint-registery
@@ -42,9 +41,9 @@ cd backend
 3. Run Frontend
 cd ../frontend
 # Open index.html or run npm start if using React
-🙋‍♀️ Author
+ ## 🙋‍♀️ Author
 👤 Nikitha Sree Thota
 📬 GitHub Profile
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
