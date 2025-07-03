@@ -29,7 +29,8 @@ complaint-registery/
 | Backend    | Flask or Node.js            |
 | Database   | MongoDB / MySQL / SQLite    |
 | Deployment | GitHub / Netlify (Optional) |
-![image](https://github.com/user-attachments/assets/0bde4367-120c-4099-9c11-9288e571f564)
+![Screenshot](https://user-images.githubusercontent.com/12345678/abc123456789.png)
+
 
 🧪 How to Run the Project Locally
 1. Clone the repository
