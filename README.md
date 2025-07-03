@@ -29,7 +29,7 @@ complaint-registery/
 | Backend    | Flask or Node.js            |
 | Database   | MongoDB / MySQL / SQLite    |
 | Deployment | GitHub / Netlify (Optional) |
-![Screenshot](https://user-images.githubusercontent.com/12345678/abc123456789.png)
+
 
 
 🧪 How to Run the Project Locally
