@@ -21,8 +21,6 @@ complaint-registery/
 ├── frontend/          # React.js or HTML/CSS UI files
 ├── backend/           # Flask/Django/Node.js APIs or server-side logic
 └── README.md          # Project overview (this file)
-![image](https://github.com/user-attachments/assets/db9d99e8-8f00-4518-9164-c91edc6b47d3)
-
 
 
 | Component  | Technology Used             |
@@ -31,6 +29,7 @@ complaint-registery/
 | Backend    | Flask or Node.js            |
 | Database   | MongoDB / MySQL / SQLite    |
 | Deployment | GitHub / Netlify (Optional) |
+![image](https://github.com/user-attachments/assets/0bde4367-120c-4099-9c11-9288e571f564)
 
 🧪 How to Run the Project Locally
 1. Clone the repository
